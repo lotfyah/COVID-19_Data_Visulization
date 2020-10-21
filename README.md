@@ -1,6 +1,6 @@
 # COVID-19-Data-Visualization
 
-![1-Logo](gifs/image.jfif)
+![1-Logo](covid_logo.jfif)
 
 Context:
 The United States have recently become the country with the most reported cases of 2019 Novel Coronavirus (COVID-19). This dataset contains daily updated number of reported cases & deaths in the US on the state and county level, as provided by the Johns Hopkins University. 
