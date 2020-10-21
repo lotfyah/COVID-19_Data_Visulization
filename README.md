@@ -1,5 +1,6 @@
 # COVID-19-Data-Visualization
 
+![1-Logo](gifs/image.jfif)
 
 Context:
 The United States have recently become the country with the most reported cases of 2019 Novel Coronavirus (COVID-19). This dataset contains daily updated number of reported cases & deaths in the US on the state and county level, as provided by the Johns Hopkins University. 
@@ -22,7 +23,7 @@ The app deployed on Heroku   https://usa-covid-2020.herokuapp.com/
 2)Github
 
 Go to the github repository 
-https://github.com/KanjicaiBrockDong/Project-2--Data-Visualization  
+https://github.com/lotfyah/COVID-19_Data_Visulization  
 run the app.py from git bash window or terminal if you are using mac
 
 go to the chrome browser use your local host ip address followed by on of the following routes:
