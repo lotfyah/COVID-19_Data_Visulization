@@ -1,5 +1,5 @@
-# Project-2-Data-Visualization
-By: Ahmed Lotfy, Bueze (Lucas) Okose, Kanjicai (Brock) Dong
+# COVID-19-Data-Visualization
+
 
 Context:
 The United States have recently become the country with the most reported cases of 2019 Novel Coronavirus (COVID-19). This dataset contains daily updated number of reported cases & deaths in the US on the state and county level, as provided by the Johns Hopkins University. 
